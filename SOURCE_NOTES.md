@@ -1,6 +1,6 @@
 # Content provenance
 
-This page is a private project showcase, based on the supplied manuscript and video. It is not a claim of publication or code release.
+This page is a public project showcase, based on the supplied manuscript and video. It is not a claim of publication or code release.
 
 | Material | Source |
 | --- | --- |
