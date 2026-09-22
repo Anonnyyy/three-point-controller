@@ -8,11 +8,11 @@
 
 > **Public project showcase.** 论文、图片和演示视频现已公开；研究实现代码、模型权重和完整数据暂未发布。
 
-[方法概览](#方法概览) · [实验结果](#实验结果) · [实机展示](#实机展示) · [演示视频](media/demo.mp4)
+[方法概览](#方法概览) · [实验结果](#实验结果) · [实机展示](#实机展示) · [演示视频](https://anonnyyy.github.io/projects/three-point-controller/#video)
 
-[论文 PDF](paper/paper.pdf) · [完整项目网页](index.html) · [素材与结果来源](SOURCE_NOTES.md)
+[论文 PDF](https://anonnyyy.github.io/projects/three-point-controller/paper/paper.pdf) · [完整项目网页](https://anonnyyy.github.io/projects/three-point-controller/) · [素材与结果来源](SOURCE_NOTES.md)
 
-下载仓库后使用浏览器打开 `index.html`，可查看论文项目页、播放带章节跳转的视频并放大原图。未启用公开网页托管。
+下载仓库后使用浏览器打开 `index.html`，可查看论文项目页、播放带章节跳转的视频并放大原图。在线浏览：https://anonnyyy.github.io/projects/three-point-controller/
 
 ![论文视频实机展示画面](assets/poster.jpg)
 
@@ -51,7 +51,7 @@ Unitree G1 实验涵盖行走、弯腰与下蹲、跪地、起身及操作任务
 
 ## 演示视频
 
-[观看或下载项目演示（MP4）](media/demo.mp4)
+[观看或下载项目演示（MP4）](https://anonnyyy.github.io/projects/three-point-controller/#video)
 
 视频已随项目展示仓库公开，可直接查看或下载。
 
